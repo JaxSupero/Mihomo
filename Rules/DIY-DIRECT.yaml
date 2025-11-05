@@ -1,4 +1,6 @@
 #自定义直连
+#  - '+.删除'
 payload:
   - '+.epin.fescoqingdao.com'
   - '+.ikuuu.de'
+  - '+.ikuuu.pw'
