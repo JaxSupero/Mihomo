@@ -1,11 +1,11 @@
-#自定义直连:  - '+.删除'
+# 自定义直连:  - '+.删除'
 payload:
   - '+.fw.d4ctech.com'
   - '+.epin.fescoqingdao.com'
   - '+.ikuuu.de'
   - '+.ikuuu.pw'
   - '+.dandan.wenjian.de/wenjian'
-#one一个
+# one一个
   - '+.enimg807.5pkwjhp.com'
   - '+.api.apubis.com'
   - '+.hsjmvd.himjld.com'
@@ -22,4 +22,3 @@ payload:
   - '+.vdmk.scycjz.com'
   - '+.scsd.rm2x5qu4c.com'
   - '+.api.5ebd5d.com'
-#－－－－－－－－－－－－－－－－－－
