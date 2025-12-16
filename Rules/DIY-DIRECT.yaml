@@ -1,5 +1,6 @@
 # 自定义直连:  - '+.删除'
 payload:
+  - '+.movie-pilot.org'
   - '+.fw.d4ctech.com'
   - '+.epin.fescoqingdao.com'
   - '+.ikuuu.de'
