@@ -1,4 +1,4 @@
-# TikTok 规则
+# TikTok规则
 rules:
   - DOMAIN,api.snapkit.com
   - DOMAIN,cocacola.co.jp
