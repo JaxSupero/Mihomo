@@ -1,8 +1,13 @@
-#emby服
+#emby服  - '+.'
 payload:
+  - '+.17.57.145.133'
+  - '+.10520.xyz'
+  - '+.emby.191920.xyz'
+  - '+.kessoku-bando.biliblili.uk'
   - '+.speedtestdeemby.191920.xyz'
   - 'pub1.term.wtf'
   - 'pub3.emby.wtf'
+  - 'pub2.emby.wtf'
   - 'pub1.emby.wtf'
   - 'pri.tanhuatv.site'
   - 'mperformance.mebimmer.de'
