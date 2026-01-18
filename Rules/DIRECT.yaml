@@ -1,5 +1,6 @@
 # 自定义直连:  - '+.删除'
 payload:
+  - '+.8yy.app'
   - '+.javzimu.com'
   - '+.movie-pilot.org'
   - '+.fw0.koolcenter.com'
