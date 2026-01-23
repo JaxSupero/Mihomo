@@ -1,6 +1,6 @@
 # 自定义直连:  - '+.删除'
 payload:
-  - '+.fxy.istrongcloud.com'
+  - '+.istrongcloud.com'
   - '+.u.3msky.com'
   - '+.8yy.app'
   - '+.javzimu.com'
